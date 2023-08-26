@@ -1,0 +1,159 @@
+body {
+	margin: 0;
+	padding: 0;
+  }
+div, img {
+	user-select: none;
+	-webkit-user-select: none;
+	-webkit-user-drag: none;
+	-moz-user-select: none;
+	-moz-user-drag: none;
+}
+.container {
+	max-width: 500px;
+	padding: 15px;
+	box-sizing: border-box;
+	margin: 0 auto;
+  }
+  .header {
+	align-items: center;
+	border-bottom: 2px solid darkred;
+  }
+  .header img {
+	height: 50px;
+	margin-bottom: 15px;
+	display: block;
+}
+  .state {
+	font-family: Segoe UI, Arial, sans-serif;
+	font-size: 17px;
+	color: #666;
+	text-align: center;
+	padding: 25px;
+}
+.mid-container {
+	padding: 10px;
+	width: auto;
+	height: 20px;
+	font-family: Segoe UI, Arial, sans-serif;
+	font-size: 15px;
+	color: #666;
+	margin: auto;
+	line-height: 20px;
+	cursor: pointer;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px solid #e4e4e4;
+}
+.enable-copy {
+	border-top: 1px solid #666;
+}
+
+.mode-text {
+	margin: 0px;
+}
+
+.check-image {
+	width: auto;
+	height: 14px;
+	background-repeat: no-repeat;
+	user-select: none;
+	float: right;
+	margin: 0;
+	opacity: 0.8;
+}
+.description {
+	margin: 12px 0;
+	font-size: 12px;
+	display: grid;
+	align-items: center;
+	text-align: center;
+	height: 40px;
+	justify-content: center;
+}
+
+.reload {
+	display: none;
+	cursor: pointer;
+	opacity: 0.4;
+}
+
+.reload img {
+	width: auto;
+	height: 35px;
+	margin: auto;
+	transform: rotate(0deg);
+}
+/* Money info styles */
+.money-info {
+	width: 22px;
+	height: 22px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 10px;
+	vertical-align: middle;
+	background-size: 100%;
+	cursor: pointer;
+}
+
+.footer {
+	width: auto;
+	height: 40px;
+	bottom: 0;
+	color: #545454;
+	background-color: #f1f3f4;
+	text-decoration: unset;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 0 0 2px 2px;
+	border-top: 1px solid #d8d8d8;
+}
+
+.settings {
+	width: 22px;
+	height: 22px;
+	margin-right: 10px;
+	vertical-align: middle;
+	opacity: 0.4;
+	background-image: url(/images/settings.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	cursor: pointer;
+}
+.footer .browsers {
+	position: relative;
+	left: 125px;
+	top: 2px;
+}
+
+.browsers img {
+	height: 20px;
+	width: auto;
+	cursor: pointer;
+}
+
+.enable-copy:hover, .abs-mode:hover {
+	background: #ece9e3;
+}
+
+.enable-copy:active, .abs-mode:active {
+	background: #e4e1d9;
+}
+
+.reload:hover {
+	opacity: 0.6;
+}
+
+.reload:active {
+	opacity: 0.4;
+}
+
+.settings:hover {
+	opacity: 0.6;
+}
+
+.settings:active {
+	opacity: 0.5;
+}
