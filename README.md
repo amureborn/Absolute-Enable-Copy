@@ -4,6 +4,9 @@ A powerful Chrome extension designed to revolutionize your browsing experience b
 
 Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc)
 
+# What Will Our Chrome Extension Look Like?
+
+
 # Features
 
 1. Enable Copy and Highlight: Effortlessly copy text and highlight content on web pages.
