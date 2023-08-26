@@ -24,5 +24,4 @@ Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.co
 
 # Developer's Corner
 
-Interested in knowing how we built CopyRight+? Dive deep into our development journey:
-How do I Make a Chrome Extension to Enable Right-Click Functionality
+Dive into our development journey of CopyRight+: [How to Enable Right-Click in Chrome Extensions](https://technomare.com/build-extension-that-enables-right-click-function)
