@@ -1,8 +1,11 @@
 # Enable-Copy
+
 A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
-![Uploading image.png…]()
+
+Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.com/webstore/detail/chrome-audio-capture/kfokdmfpdnokpmpbjhjbcabgligoelgp)
 
 Features
+
 Enable Copy and Highlight: Effortlessly copy text and highlight content on web pages.
 Re-enable Context Menu: Regain access to the right-click context menu for a seamless browsing experience.
 Remove Copytext Protection: Bypass restrictions set by websites to prevent copying text.
