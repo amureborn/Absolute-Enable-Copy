@@ -1,11 +1,8 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
     "manifest_version": 3,
     "name": "CopyRight+: Enable Right Click & Copy",
     "version": "1.1.1",
     "description": "It enables right-click and copy functionality on websites that have disabled the right-click and copy commands.",
-    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqCLl3Ns6BIfZl6L5emfru6iag0GpRAA5zH9ODoiFgPAgjed+u5bnprOH9H5BTLg0Gb7aHYB3XHwLd07W7jkBY6C45kzZT9NM1oK3mZRAjjhv0kGltCW2x9JAhTrJ2o8Dt1U0iu0UTCf6Dr5IVoisll0cTA7dZz7sNs7utb6NznME3D6EBAko9A+CmGSG7iPW4XgYYmnIPC33zO8o0dwUVENtH/ctXlJfuMaCLMYgNuNP972oKJ/0WSGUu5/yohqX3K7pfNKKF5gtew+C97yK1IyGXDO6fxje7axPuZzYNDFbP1QpBoL/npUbDxHHw/TQbse1dqV+Ci/qHmVsgxCI0QIDAQAB",
     "action": {
         "default_popup": "popup.html",
         "default_icon": {
