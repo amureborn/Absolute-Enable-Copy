@@ -4,8 +4,9 @@ A powerful Chrome extension designed to revolutionize your browsing experience b
 
 Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc)
 
-# What Will Our Chrome Extension Look Like?
-./docs/Google-Chrome-Extension-Preview.gif
+## What Will Our Chrome Extension Look Like?
+
+![Chrome Extension Preview](./docs/Google-Chrome-Extension-Preview.gif)
 
 # Features
 
