@@ -27,5 +27,5 @@ This extension uses MIT License.
 
 # Development
 
-Dive into our development journey of CopyRight+: [How to Build a Chrome extension that enables right-click functionality?](https://technomare.com/build-extension-that-enables-right-click-function)
+Dive into our development journey of CopyRight+: [How To Build a Chrome Extension That Enables Right-Click Functionality?](https://technomare.com/build-extension-that-enables-right-click-function)
 
