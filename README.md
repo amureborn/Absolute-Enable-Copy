@@ -22,6 +22,10 @@ Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.co
 3. Choosing the Mode: In the popup, select between three options: “Enable Copy,” “CopyRight+ Mode,” or “Image Reader (OCR).”
 4. Ready to Copy: Post selecting your desired mode, start copying text from any website seamlessly.
 
-# Developer's Corner
+### License
+This extension uses MIT License.
 
-Dive into our development journey of CopyRight+: # [How to Build a Chrome extension that enables right-click functionality?](https://technomare.com/build-extension-that-enables-right-click-function)
+# Development
+
+Dive into our development journey of CopyRight+: [How to Build a Chrome extension that enables right-click functionality?](https://technomare.com/build-extension-that-enables-right-click-function)
+
