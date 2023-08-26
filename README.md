@@ -1,4 +1,4 @@
-# Enable-Copy
+# CopyRight+: Enable Right-Click & Copy
 
 A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
 
