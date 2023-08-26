@@ -2,7 +2,7 @@
 
 A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
 
-Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.com/webstore/detail/chrome-audio-capture/kfokdmfpdnokpmpbjhjbcabgligoelgp)
+Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.com/webstore/detail/copyright+-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc#:~:text=CopyRight%2B%3A%20Enable%20Right%20Click%20%26%20Copy&text=It%20enables%20right%2Dclick%20and,on%20websites%20that%20impose%20restrictions.)
 
 Features
 
