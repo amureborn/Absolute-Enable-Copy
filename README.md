@@ -1,11 +1,6 @@
 # Enable-Copy
 A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
-
-Trusted by 1,000,000+ users
-
-🔗 Get it on Chrome
-🔗 Get it on Edge
-🔗 Get it on Firefox
+![Uploading image.png…]()
 
 Features
 Enable Copy and Highlight: Effortlessly copy text and highlight content on web pages.
