@@ -1,8 +1,8 @@
-# CopyRight+: Enable Right-Click & Copy
+# CopyRight+: Enable Copy & Image Reader
 
 A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
 
-Chrome Audio Capture is available in the [Chrome Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc)
+CopyRight+: Enable Copy & Image Reader is available in the [Chrome Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc)
 
 ## What Will Our Chrome Extension Look Like?
 
