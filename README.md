@@ -6,7 +6,7 @@ CopyRight+: Enable Copy & Image Reader is available in the [Chrome Store](https:
 
 ## What Will Our Chrome Extension Look Like?
 
-https://youtu.be/mXcVdsS_EQ4
+https://github.com/TechnoMare/Enable-Copy/assets/96228020/edf042da-85da-4fd3-a080-df57401ff3f1
 
 # Features
 
