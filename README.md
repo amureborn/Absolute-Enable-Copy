@@ -101,7 +101,7 @@ This manifest file is structured with the extension’s name, version, and descr
 - Storage: This permission allows the extension to use local storage to store and retrieve data.
 - scripting: It grants the extension the ability to modify the behavior of web pages by injecting scripts into them.
 
-You can have a look here to see all configurations of a manifest.json file.
+You can have a look [here](https://developer.chrome.com/docs/extensions/mv3/manifest/) to see all configurations of a manifest.json file.
 
 > [!NOTE]
 > Place the manifest.json file at the root of your directory. This file will tell the browser about the core properties of your extension.
@@ -112,7 +112,8 @@ To make the magic happen, you require two files: background.js and background.ht
 
 The background scripts take care of tasks like managing a list of websites and enabling specific features, such as copying and right-clicking, on those websites.
 
-Go To File > New File > Create a background.js File
+- Go To File > New File > Create a background.js File
+
 After creating a background.js file, paste this JavaScript boilerplate code:
 
 ```
