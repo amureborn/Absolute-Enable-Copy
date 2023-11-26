@@ -1,4 +1,4 @@
-# Absolute Enable Copy & Image Reader
+# 🖱️ Absolute Enable Copy & Image Reader
 
 A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
 
