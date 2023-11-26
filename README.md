@@ -49,8 +49,8 @@ First, you need a special folder (or “directory”) where all your files will 
 Inside “Extension Name“, make these folders:
 
 - ‘js‘ (for code stuff)
-- ‘images‘ (for pictures)
-- ‘css‘ (for style stuff)
+* ‘images‘ (for pictures)
++ ‘css‘ (for style stuff)
 
 This organization ensures that our files are well-structured and easy to locate.
 
