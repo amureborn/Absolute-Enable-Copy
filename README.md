@@ -1,8 +1,8 @@
-# CopyRight+: Enable Copy & Image Reader
+# Absolute Enable Copy & Image Reader
 
 A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
 
-CopyRight+: Enable Copy & Image Reader is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc) & [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/copyright-enable-copy-/inmkjedjdhgpknjogbjomhnbgdccckkg)
+Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc) & [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/copyright-enable-copy-/inmkjedjdhgpknjogbjomhnbgdccckkg)
 
 ## What Will Our Chrome Extension Look Like?
 
@@ -21,6 +21,8 @@ https://github.com/TechnoMare/Enable-Copy/assets/96228020/28099286-bb93-46bf-89d
 2. Accessing the Options: After installation, click on the extension icon located in the top-right corner of your browser.
 3. Choosing the Mode: In the popup, select between three options: “Enable Copy,” “CopyRight+ Mode,” or “Image Reader (OCR).”
 4. Ready to Copy: Post selecting your desired mode, start copying text from any website seamlessly.
+
+# How I Built This Extension!
 
 ### License
 This extension uses MIT License.
