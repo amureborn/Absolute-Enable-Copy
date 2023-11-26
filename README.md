@@ -67,6 +67,7 @@ Go To File > New File > Create a Manifest.json File
 
 After creating a Manifest.json file, paste this HTML boilerplate code:
 
+```
 {
     "manifest_version": 3,
     "name": "Extension Name",
@@ -90,7 +91,7 @@ After creating a Manifest.json file, paste this HTML boilerplate code:
         "128": "images/logo.png"
     }
 }
-
+```
 
 ### License
 This extension uses MIT License.
