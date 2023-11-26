@@ -417,8 +417,9 @@ After creating the popup.js file, it’s time to create the popup.html file wher
 
 In this popup.html, we have set two modes of enabling copy.
 
-“Enable Copy” Mode: This mode lets you copy text on smaller websites.
-“CopyRight+ Mode: This mode helps you to copy text forcefully on larger websites, even when their copy function is blocked.
+1. “Enable Copy” Mode: This mode lets you copy text on smaller websites.
+2. “CopyRight+ Mode: This mode helps you to copy text forcefully on larger websites, even when their copy function is blocked.
+
 We have also added some options like reloading the active page and have given access to the extension’s settings page to make the extension more interactive. but as of now, we haven’t used CSS to make our UI user-friendly and more good-looking. To make it better, you can give the popup a nicer look using some CSS code. to do this first, we create a new file “popup.css” with CSS code, Now
 
 Go To File > New File > Create a popup.css File. (Make sure that this file is located in the “css” folder.)
