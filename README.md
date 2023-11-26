@@ -53,7 +53,7 @@ Inside “Extension Name“, make these folders:
 ‘css‘ (for style stuff)
 This organization ensures that our files are well-structured and easy to locate.
 
-#2. The Heart: Manifest File
+# 2. The Heart: Manifest File
 
 Every extension begins with a manifest.json file. This is like an ID card for your extension. This crucial file provides metadata about the extension: its name, version, permissions, and more.
 
@@ -102,7 +102,7 @@ You can have a look here to see all configurations of a manifest.json file.
 > [!NOTE]
 > Place the manifest.json file at the root of your directory. This file will tell the browser about the core properties of your extension.
 
-#3. The Brain: Background Scripts & Page
+# 3. The Brain: Background Scripts & Page
 
 To make the magic happen, you require two files: background.js and background.html. These files work in the background and handle different tasks without being noticed. They manage how the browser works.
 
@@ -252,7 +252,7 @@ This JavaScript represents the logic of our background.js file. Now, let’s cre
 > [!NOTE]
 > Place the background.js file (containing the logic) and the background.html file (containing the structure) in the root directory.
 
-#4. User Interaction: Popup Page & Script
+# 4. User Interaction: Popup Page & Script
 
 Now that we’ve put the heart and brain into our extension, it’s time to introduce the popup. This is where users can see and interact with our extension. The popup acts as a small interactive window, crafted using a combination of HTML and JavaScript.
 
