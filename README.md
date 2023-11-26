@@ -13,13 +13,13 @@ Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https
 1. Enable Copy and Highlight: Effortlessly copy text and highlight content on web pages.
 2. Re-enable Context Menu: Regain access to the right-click context menu for a seamless browsing experience.
 3. Remove Copytext Protection: Bypass restrictions set by websites to prevent copying text.
-4. CopyRight+ Mode: A robust mode to remove various types of protection against advanced methods disabling copy-paste functionality.
+4. Absolute Mode: A robust mode to remove various types of protection against advanced methods disabling copy-paste functionality.
 
 ## 📣 How To Use
 
-1. Installation: Begin by installing the CopyRight+ extension from the respective browser store.
+1. Installation: Begin by installing the Absolute Enable Copy & Image Reader extension from the respective browser store.
 2. Accessing the Options: After installation, click on the extension icon located in the top-right corner of your browser.
-3. Choosing the Mode: In the popup, select between three options: “Enable Copy,” “CopyRight+ Mode,” or “Image Reader (OCR).”
+3. Choosing the Mode: In the popup, select between three options: “Enable Copy,” “Absolute Mode,” or “Image Reader (OCR).”
 4. Ready to Copy: Post selecting your desired mode, start copying text from any website seamlessly.
 
 ## 📣 How I Built This Extension!
@@ -395,7 +395,7 @@ After creating the popup.js file, it’s time to create the popup.html file wher
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-	<title>CopyRight+: Enable Right Click & Copy</title>
+	<title>Enable Right Click & Copy</title>
 	<link rel="stylesheet" type="text/css" href="/css/popup.css">
 </head>
 <body>
@@ -414,7 +414,7 @@ After creating the popup.js file, it’s time to create the popup.html file wher
 	    <span class="mode-text">Enable Copy</span>
 		<img class="check-image" src="/images/off.png"></div>
 		<div class="abs-mode mid-container">
-	    <span class="mode-text">CopyRight+ Mode</span>
+	    <span class="mode-text">Absolute Mode</span>
 		<img class="check-image" src="/images/off.png"></div>
 	<script type="text/javascript" src="popup.js"></script>
 </body>
@@ -424,7 +424,7 @@ After creating the popup.js file, it’s time to create the popup.html file wher
 In this popup.html, we have set two modes of enabling copy.
 
 1. “Enable Copy” Mode: This mode lets you copy text on smaller websites.
-2. “CopyRight+ Mode: This mode helps you to copy text forcefully on larger websites, even when their copy function is blocked.
+2. “Absolute Mode: This mode helps you to copy text forcefully on larger websites, even when their copy function is blocked.
 
 We have also added some options like reloading the active page and have given access to the extension’s settings page to make the extension more interactive. but as of now, we haven’t used CSS to make our UI user-friendly and more good-looking. To make it better, you can give the popup a nicer look using some CSS code. to do this first, we create a new file “popup.css” with CSS code, Now
 
@@ -701,7 +701,7 @@ After creating an Options.html file, paste this html boilerplate code:
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-	<title>CopyRight+: Enable Right Click & Copy</title>
+	<title>Enable Right Click & Copy</title>
 	<link rel="stylesheet" type="text/css" href="/css/popup.css">
 </head>
 <body>
@@ -720,7 +720,7 @@ After creating an Options.html file, paste this html boilerplate code:
 	    <span class="mode-text">Enable Copy</span>
 		<img class="check-image" src="/images/off.png"></div>
 		<div class="abs-mode mid-container">
-	    <span class="mode-text">CopyRight+ Mode</span>
+	    <span class="mode-text">Absolute Mode</span>
 		<img class="check-image" src="/images/off.png"></div>
 	<script type="text/javascript" src="popup.js"></script>
 </body>
@@ -1041,9 +1041,9 @@ This CSS code provides styles for the header, tables, list items, footer, and ot
 
 ## 6. Make The Extension Work ( Main JavaScript )
 
-Congratulations! You’ve created almost all the necessary extension files. However, our main functions aren’t set up yet. As mentioned earlier, I’ve added two modes: the first is “Enable Copy” and the second is “CopyRight+ Mode”.
+Congratulations! You’ve created almost all the necessary extension files. However, our main functions aren’t set up yet. As mentioned earlier, I’ve added two modes: the first is “Enable Copy” and the second is “Absolute Mode”.
 
-These modes determine how our extension will operate. Let’s create a new file named enable.js For the “Enable Copy” mode, and another file named enableA.js for the “CopyRight+ Mode”. (Make sure that those files are located in the “js” folder.)
+These modes determine how our extension will operate. Let’s create a new file named enable.js For the “Enable Copy” mode, and another file named enableA.js for the “Absolute Mode”. (Make sure that those files are located in the “js” folder.)
 
 - Go To File > New File > Create an enable.js File.
 
@@ -1119,7 +1119,7 @@ After creating an enable.js file, paste this JavaScript boilerplate code:
 
 ```
 
-Next, create an enableA.js file for the “CopyRight+ Mode”.
+Next, create an enableA.js file for the “Absolute Mode”.
 
 - Go To File > New File > Create an enableA.js File.
 
@@ -1200,7 +1200,7 @@ After choosing Extensions, it redirects to the extensions page in Chrome. Make s
 
 Once that’s done, you need to click the Load unpacked button that will allow us to load our project in the Chrome extension store.
 
-Now, the extension is available in our Chrome extension store. You can also pin the extension in the browser as shown in the gif below:
+Now, the extension is available in our Chrome extension store. You can also pin the extension in the browser as shown in the gif above:
 
 This extension works only in your browser. If you want to publish it on the Chrome Web Store, you can follow this [link](https://developer.chrome.com/docs/webstore/register/).
 
