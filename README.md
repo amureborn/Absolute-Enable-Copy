@@ -53,6 +53,45 @@ Inside “Extension Name“, make these folders:
 ‘css‘ (for style stuff)
 This organization ensures that our files are well-structured and easy to locate.
 
+#2. The Heart: Manifest File
+
+Every extension begins with a manifest.json file. This is like an ID card for your extension. This crucial file provides metadata about the extension: its name, version, permissions, and more.
+
+First of all, we need the VS Code editor where we will write our HTML, CSS, or JavaScript code. So, download Visual Studio Code and install it on your PC or laptop. Now
+
+Open Visual Studio Code on Your PC.
+Go To File > Open Folder > Select “Extension Name” folder
+Go To File > New File > Create a Manifest.json File
+
+![Create-a-Manifest json-File-1024x200](https://github.com/TechnoMare/Enable-Copy/assets/96228020/424ad674-4bfd-426f-ac22-b0248c268310)
+
+After creating a Manifest.json file, paste this HTML boilerplate code:
+
+{
+    "manifest_version": 3,
+    "name": "Extension Name",
+    "version": "1.0.0",
+    "description": "Extension Description",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/16px.png",
+            "48": "images/48px.png",
+            "128": "images/logo.png"
+        }
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["activeTab", "storage", "scripting"],
+    "icons": {
+        "16": "images/16px.png",
+        "48": "images/48px.png",
+        "128": "images/logo.png"
+    }
+}
+
+
 ### License
 This extension uses MIT License.
 
