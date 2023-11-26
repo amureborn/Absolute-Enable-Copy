@@ -48,9 +48,10 @@ First, you need a special folder (or “directory”) where all your files will 
 
 Inside “Extension Name“, make these folders:
 
-‘js‘ (for code stuff)
-‘images‘ (for pictures)
-‘css‘ (for style stuff)
+- ‘js‘ (for code stuff)
+- ‘images‘ (for pictures)
+- ‘css‘ (for style stuff)
+
 This organization ensures that our files are well-structured and easy to locate.
 
 # 2. The Heart: Manifest File
@@ -59,9 +60,9 @@ Every extension begins with a manifest.json file. This is like an ID card for yo
 
 First of all, we need the VS Code editor where we will write our HTML, CSS, or JavaScript code. So, download Visual Studio Code and install it on your PC or laptop. Now
 
-Open Visual Studio Code on Your PC.
-Go To File > Open Folder > Select “Extension Name” folder
-Go To File > New File > Create a Manifest.json File
+- Open Visual Studio Code on Your PC.
+- Go To File > Open Folder > Select “Extension Name” folder
+- Go To File > New File > Create a Manifest.json File
 
 ![Create-a-Manifest json-File-1024x200](https://github.com/TechnoMare/Enable-Copy/assets/96228020/424ad674-4bfd-426f-ac22-b0248c268310)
 
@@ -94,9 +95,10 @@ After creating a Manifest.json file, paste this HTML boilerplate code:
 ```
 This manifest file is structured with the extension’s name, version, and description. It also includes a default page called popup.html and a background service worker named background.js. Furthermore, it specifies the necessary permissions, such as:
 
-ActiveTab: This permission allows the extension to access the currently active tab in the browser.
-Storage: This permission allows the extension to use local storage to store and retrieve data.
-scripting: It grants the extension the ability to modify the behavior of web pages by injecting scripts into them.
+- ActiveTab: This permission allows the extension to access the currently active tab in the browser.
+- Storage: This permission allows the extension to use local storage to store and retrieve data.
+- scripting: It grants the extension the ability to modify the behavior of web pages by injecting scripts into them.
+
 You can have a look here to see all configurations of a manifest.json file.
 
 > [!NOTE]
