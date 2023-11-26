@@ -10,7 +10,8 @@ Recently, we published our first Chrome extension that enables right-click and c
 
 Here is a simple and detailed step-by-step guide on how you can create your own 'Enable Right-Click & Copy' Chrome extension.
 
-https://github.com/TechnoMare/Enable-Copy/assets/96228020/28099286-bb93-46bf-89d7-682249c7b8bc
+![Modern Q A Youtube Thumbnail](https://github.com/TechnoMare/Enable-Copy/assets/96228020/2d067cd2-d38a-4049-99fc-9526f09e76e7)
+
 
 # Features
 
