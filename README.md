@@ -6,12 +6,11 @@ Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https
 
 ## 📣 What Will Our Chrome Extension Look Like?
 
+![Modern Q A Youtube Thumbnail](https://github.com/TechnoMare/Enable-Copy/assets/96228020/2d067cd2-d38a-4049-99fc-9526f09e76e7)
+
 Recently, we published our first Chrome extension that enables right-click and copy functionality on websites that have disabled the text copy selection command on their websites. Additionally, we added an OCR Image Reader feature that allows you to extract text from images. In this article, we will show you how to create a Chrome extension that enables right-click functionality.
 
 Here is a simple and detailed step-by-step guide on how you can create your own 'Enable Right-Click & Copy' Chrome extension.
-
-![Modern Q A Youtube Thumbnail](https://github.com/TechnoMare/Enable-Copy/assets/96228020/2d067cd2-d38a-4049-99fc-9526f09e76e7)
-
 
 ## 📣 Features
 
