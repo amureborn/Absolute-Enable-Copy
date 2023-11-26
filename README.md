@@ -34,10 +34,24 @@ To make a simple extension you need simple web technologies like HTML, CSS, and 
 
 Creating a Chrome extension is similar to creating a web application, but it requires a manifest.json file which we will discuss in this post.
 
-# How to Create a Chrome Extension that enables right-click functionality?
+Have you ever tried to copy important text from a website but couldn’t because it disabled the copy and right-click functions?
 
+You can solve this with a handy browser extension that lets users right-click and copy, even on restrictive sites. Want to upgrade your browser experience? Here’s a simple step-by-step guide to making this extension from scratch.
 
+# 1. Setting Up Your Workspace
 
+First, you need a special folder (or “directory”) where all your files will live.
+
+📂 Create a New folder named “Extension Name” on your computer.
+
+![Create-a-New-Folder-1024x576](https://github.com/TechnoMare/Enable-Copy/assets/96228020/bf145539-136c-45fe-94b2-2bbb1d1055e5)
+
+Inside “Extension Name“, make these folders:
+
+‘js‘ (for code stuff)
+‘images‘ (for pictures)
+‘css‘ (for style stuff)
+This organization ensures that our files are well-structured and easy to locate.
 
 ### License
 This extension uses MIT License.
