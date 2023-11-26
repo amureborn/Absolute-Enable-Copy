@@ -1199,10 +1199,14 @@ Once that’s done, you need to click the Load unpacked button that will allow u
 
 Now, the extension is available in our Chrome extension store. You can also pin the extension in the browser as shown in the gif below:
 
+This extension works only in your browser. If you want to publish it on the Chrome Web Store, you can follow this [link](https://developer.chrome.com/docs/webstore/register/).
+
+# Conclusion
+
+Finally, we’ve created a simple Chrome extension that allows users to enable the right-click and copy functions on websites where they’ve been disabled. Our straightforward guide also offers insights into the basic structure and development process of a Chrome extension.
+
+Developing Chrome extensions is a fun way to bring your ideas to life and improve your browsing experience. Feel free to modify the [Source Code](https://github.com/TechnoMare/Enable-Copy) of our extension and customize it to fit your specific needs. Happy coding!
+
 ### License
 This extension uses MIT License.
-
-# Development
-
-Dive into our development journey of CopyRight+: [How To Build a Chrome Extension That Enables Right-Click Functionality?](https://technomare.com/build-extension-that-enables-right-click-function)
 
