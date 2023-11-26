@@ -60,7 +60,7 @@ This organization ensures that our files are well-structured and easy to locate.
 
 Every extension begins with a manifest.json file. This is like an ID card for your extension. This crucial file provides metadata about the extension: its name, version, permissions, and more.
 
-First of all, we need the VS Code editor where we will write our HTML, CSS, or JavaScript code. So, download Visual Studio Code and install it on your PC or laptop. Now
+First of all, we need the VS Code editor where we will write our HTML, CSS, or JavaScript code. So, download [Visual Studio Code](https://code.visualstudio.com/) and install it on your PC or laptop. Now
 
 - Open Visual Studio Code on Your PC.
 - Go To File > Open Folder > Select “Extension Name” folder
