@@ -92,6 +92,15 @@ After creating a Manifest.json file, paste this HTML boilerplate code:
     }
 }
 ```
+This manifest file is structured with the extension’s name, version, and description. It also includes a default page called popup.html and a background service worker named background.js. Furthermore, it specifies the necessary permissions, such as:
+
+ActiveTab: This permission allows the extension to access the currently active tab in the browser.
+Storage: This permission allows the extension to use local storage to store and retrieve data.
+scripting: It grants the extension the ability to modify the behavior of web pages by injecting scripts into them.
+You can have a look here to see all configurations of a manifest.json file.
+
+> [!NOTE]
+> Place the manifest.json file at the root of your directory. This file will tell the browser about the core properties of your extension.
 
 ### License
 This extension uses MIT License.
