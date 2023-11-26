@@ -4,7 +4,7 @@ A powerful Chrome extension designed to revolutionize your browsing experience b
 
 Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc) & [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/copyright-enable-copy-/inmkjedjdhgpknjogbjomhnbgdccckkg)
 
-# 📣 What Will Our Chrome Extension Look Like?
+## 📣 What Will Our Chrome Extension Look Like?
 
 Recently, we published our first Chrome extension that enables right-click and copy functionality on websites that have disabled the text copy selection command on their websites. Additionally, we added an OCR Image Reader feature that allows you to extract text from images. In this article, we will show you how to create a Chrome extension that enables right-click functionality.
 
@@ -13,21 +13,21 @@ Here is a simple and detailed step-by-step guide on how you can create your own 
 ![Modern Q A Youtube Thumbnail](https://github.com/TechnoMare/Enable-Copy/assets/96228020/2d067cd2-d38a-4049-99fc-9526f09e76e7)
 
 
-# 📣 Features
+## 📣 Features
 
 1. Enable Copy and Highlight: Effortlessly copy text and highlight content on web pages.
 2. Re-enable Context Menu: Regain access to the right-click context menu for a seamless browsing experience.
 3. Remove Copytext Protection: Bypass restrictions set by websites to prevent copying text.
 4. CopyRight+ Mode: A robust mode to remove various types of protection against advanced methods disabling copy-paste functionality.
 
-# 📣 How To Use
+## 📣 How To Use
 
 1. Installation: Begin by installing the CopyRight+ extension from the respective browser store.
 2. Accessing the Options: After installation, click on the extension icon located in the top-right corner of your browser.
 3. Choosing the Mode: In the popup, select between three options: “Enable Copy,” “CopyRight+ Mode,” or “Image Reader (OCR).”
 4. Ready to Copy: Post selecting your desired mode, start copying text from any website seamlessly.
 
-# 📣 How I Built This Extension!
+## 📣 How I Built This Extension!
 
 Before starting the actual development of the 'Absolute Enable Copy & Image Reader' Chrome extension, we first need to understand what a Chrome extension is. Chrome extensions are small tools or software pieces that can be installed in browsers to add extra features, enhancing our browsing experience.
 
@@ -39,7 +39,7 @@ Have you ever tried to copy important text from a website but couldn’t because
 
 You can solve this with a handy browser extension that lets users right-click and copy, even on restrictive sites. Want to upgrade your browser experience? Here’s a simple step-by-step guide to making this extension from scratch.
 
-# 1. Setting Up Your Workspace
+## 1. Setting Up Your Workspace
 
 First, you need a special folder (or “directory”) where all your files will live.
 
@@ -55,7 +55,7 @@ Inside “Extension Name“, make these folders:
 
 This organization ensures that our files are well-structured and easy to locate.
 
-# 2. The Heart: Manifest File
+## 2. The Heart: Manifest File
 
 Every extension begins with a manifest.json file. This is like an ID card for your extension. This crucial file provides metadata about the extension: its name, version, permissions, and more.
 
@@ -105,7 +105,7 @@ You can have a look here to see all configurations of a manifest.json file.
 > [!NOTE]
 > Place the manifest.json file at the root of your directory. This file will tell the browser about the core properties of your extension.
 
-# 3. The Brain: Background Scripts & Page
+## 3. The Brain: Background Scripts & Page
 
 To make the magic happen, you require two files: background.js and background.html. These files work in the background and handle different tasks without being noticed. They manage how the browser works.
 
@@ -255,7 +255,7 @@ This JavaScript represents the logic of our background.js file. Now, let’s cre
 > [!NOTE]
 > Place the background.js file (containing the logic) and the background.html file (containing the structure) in the root directory.
 
-# 4. User Interaction: Popup Page & Script
+## 4. User Interaction: Popup Page & Script
 
 Now that we’ve put the heart and brain into our extension, it’s time to introduce the popup. This is where users can see and interact with our extension. The popup acts as a small interactive window, crafted using a combination of HTML and JavaScript.
 
@@ -592,7 +592,7 @@ div, img {
 
 This CSS file contains styles for the main page of a Chrome extension. It defines the appearance and layout of various elements on the popup page.
 
-# 5. Add Some Extra Features: Options Page & Script
+## 5. Add Some Extra Features: Options Page & Script
 
 Next, let’s create an Options page. This page will display a list of websites where the extension can be used to enable the copy function, allowing users to select text from those sites. Users will also have the capability to delete Websites from this list.
 
@@ -1037,7 +1037,7 @@ body {
 
 This CSS code provides styles for the header, tables, list items, footer, and other sections of the Options page. The goal is to achieve a neat and organized layout with consistent colors, fonts, and spacing.
 
-# 6. Make The Extension Work ( Main JavaScript )
+## 6. Make The Extension Work ( Main JavaScript )
 
 Congratulations! You’ve created almost all the necessary extension files. However, our main functions aren’t set up yet. As mentioned earlier, I’ve added two modes: the first is “Enable Copy” and the second is “CopyRight+ Mode”.
 
@@ -1174,7 +1174,7 @@ After creating an injection.js file, paste this JavaScript boilerplate code:
 
 This JavaScript will ensure that either “enable.js” or “enableA.js” is properly injected into sites to override certain events (like context menu, copy, cut, paste, etc.) that may be preventing the user from right-clicking or copying content.
 
-# 7. Important: Upload All Required Images
+## 7. Important: Upload All Required Images
 
 Be careful when uploading images for the extension. All required images should be organized and uploaded within a single folder, making it easier to locate the image paths. Earlier, we created a folder named “Images” inside the “Extension Name” folder. Put all the needed images there.
 
@@ -1182,7 +1182,7 @@ Create the necessary images using Canva or any other image creation or editing t
 
 ![Required-Images-For-Extension-1024x576](https://github.com/TechnoMare/Enable-Copy/assets/96228020/b0fdb2aa-2605-4e69-ac13-e852400de7b9)
 
-# 8. Adding Your Files To Chrome://Extensions
+## 8. Adding Your Files To Chrome://Extensions
 
 Once all of this is done, we’re ready to add this project as an extension to our Chrome browser.
 
@@ -1202,7 +1202,7 @@ Now, the extension is available in our Chrome extension store. You can also pin 
 
 This extension works only in your browser. If you want to publish it on the Chrome Web Store, you can follow this [link](https://developer.chrome.com/docs/webstore/register/).
 
-# 📣 Conclusion
+## 📣 Conclusion
 
 Finally, we’ve created a simple Chrome extension that allows users to enable the right-click and copy functions on websites where they’ve been disabled. Our straightforward guide also offers insights into the basic structure and development process of a Chrome extension.
 
