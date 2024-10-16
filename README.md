@@ -6,8 +6,9 @@ Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https
 
 ## 📣 What Will Our Chrome Extension Look Like?
 
-[unnamed (2)](https://github.com/user-attachments/assets/3875a9c0-107c-43b0-bdc2-c8cd5a86ae55)
-[unnamed (1)](https://github.com/user-attachments/assets/9eb289ba-3c9e-402f-af82-735694d64b23)
+![unnamed (1)](https://github.com/user-attachments/assets/2c7fdfa3-7b92-4ddc-a5dc-0448e5d34d25)
+![unnamed (2)](https://github.com/user-attachments/assets/c504202e-81e7-4714-a8c3-d87f18be1ece)
+
 
 ## 📣 Features
 
