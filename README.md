@@ -2,7 +2,7 @@
 
 This Chrome extension, designed with the latest Chrome updates Manifest V3, allows you to Enable Context Menu, Allow Copy and Right-click functionalities on websites that have disabled these commands. Additionally, it allows users to copy text from images using the OCR function.
 
-Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc) & [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/copyright-enable-copy-/inmkjedjdhgpknjogbjomhnbgdccckkg)
+Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https://chromewebstore.google.com/detail/absolute-enable-right-cli/pkoccklolohdacbfooifnpebakpbeipc) & [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/copyright-enable-copy-/inmkjedjdhgpknjogbjomhnbgdccckkg)
 
 ## Screenshot
 
