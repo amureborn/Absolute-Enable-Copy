@@ -17,10 +17,10 @@ Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https
 
 ## 📣 How To Use
 
-1. Installation: Begin by installing the Absolute Enable Copy & Image Reader extension from the respective browser store.
-2. Accessing the Options: After installation, click on the extension icon located in the top-right corner of your browser.
-3. Choosing the Mode: In the popup, select between three options: “Enable Copy,” “Absolute Mode,” or “Image Reader (OCR).”
-4. Ready to Copy: Post selecting your desired mode, start copying text from any website seamlessly.
+1. Begin by installing the Absolute Enable Copy & Image Reader extension from the respective browser store.
+2. After installation, click on the extension icon located in the top-right corner of your browser.
+3. In the popup, select between three options: “Enable Copy,” “Absolute Mode,” or “Image Reader (OCR).”
+4. Post selecting your desired mode, start copying text from any website seamlessly.
 
 ## 📣 How I Built This Extension!
 
