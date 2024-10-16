@@ -1,12 +1,13 @@
-# Absolute Enable Copy & Image Reader
+# Absolute Enable Right Click & Copy
 
-A powerful Chrome extension designed to revolutionize your browsing experience by enabling right-click and copy functionalities on restricted websites and extracting text from images.
+This Chrome extension, designed with the latest Chrome updates Manifest V3, allows you to Enable Context Menu, Allow Copy and Right-click functionalities on websites that have disabled these commands. Additionally, it allows users to copy text from images using the OCR function.
 
 Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc) & [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/copyright-enable-copy-/inmkjedjdhgpknjogbjomhnbgdccckkg)
 
 ## 📣 What Will Our Chrome Extension Look Like?
 
-![Modern Q A Youtube Thumbnail](https://github.com/TechnoMare/Enable-Copy/assets/96228020/2d067cd2-d38a-4049-99fc-9526f09e76e7)
+[unnamed (2)](https://github.com/user-attachments/assets/3875a9c0-107c-43b0-bdc2-c8cd5a86ae55)
+[unnamed (1)](https://github.com/user-attachments/assets/9eb289ba-3c9e-402f-af82-735694d64b23)
 
 ## 📣 Features
 
