@@ -1206,7 +1206,7 @@ This extension works only in your browser. If you want to publish it on the Chro
 
 Finally, we’ve created a simple Chrome extension that allows users to enable the right-click and copy functions on websites where they’ve been disabled. Our straightforward guide also offers insights into the basic structure and development process of a Chrome extension.
 
-Developing Chrome extensions is a fun way to bring your ideas to life and improve your browsing experience. Feel free to modify the [Source Code](https://github.com/TechnoMare/Enable-Copy) of our extension and customize it to fit your specific needs. Happy coding!
+Developing Chrome extensions is a fun way to bring your ideas to life and improve your browsing experience. Feel free to modify the [Source Code](https://github.com/amureborn/Absolute-Enable-Copy) of our extension and customize it to fit your specific needs. Happy coding!
 
 ### License
 This extension uses MIT License.
