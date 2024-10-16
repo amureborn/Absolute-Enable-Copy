@@ -4,11 +4,9 @@ This Chrome extension, designed with the latest Chrome updates Manifest V3, allo
 
 Absolute Enable Copy & Image Reader is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/copyright%20-enable-right-c/pkoccklolohdacbfooifnpebakpbeipc) & [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/copyright-enable-copy-/inmkjedjdhgpknjogbjomhnbgdccckkg)
 
-## 📣 What Will Our Chrome Extension Look Like?
+## Screenshot
 
 ![unnamed (1)](https://github.com/user-attachments/assets/2c7fdfa3-7b92-4ddc-a5dc-0448e5d34d25)
-![unnamed (2)](https://github.com/user-attachments/assets/c504202e-81e7-4714-a8c3-d87f18be1ece)
-
 
 ## 📣 Features
 
